@@ -1,6 +1,4 @@
-# CPSC571-Facial-Recognition
-
-Python Facial Dectection 
+# CPSC571-Facial-Recognition-Mood-Detection
 
 
 DEPENDENCIES
