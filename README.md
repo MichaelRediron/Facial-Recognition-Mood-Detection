@@ -1,7 +1,7 @@
 **Facial Recognition Mood Detection**  
   
 **Course:** CPSC 571 - Design and Implementation of Database Systems   
-See demo and report for more details
+See Demo.mp4 and Facial-Recognition-Report.pdf for more details
 
 
 DEPENDENCIES
